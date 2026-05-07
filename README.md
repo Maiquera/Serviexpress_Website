@@ -2,6 +2,8 @@
 
 Site institucional dinâmico desenvolvido para empresa de climatização, piscinas e refrigeração localizada em Florianópolis.
 
+Visite o site [https//:serviexpress.com.br](https://serviexpress.com.br/).
+
 ## Funcionalidades
 
 - Catálogo dinâmico de produtos
@@ -24,3 +26,8 @@ Site institucional dinâmico desenvolvido para empresa de climatização, piscin
 ## Objetivo
 
 Gerar leads comerciais via busca orgânica e contato rápido por WhatsApp.
+
+## Preview
+
+![Desktop image](/readme/desktop.png "Desktop imagem.")
+![Mobile image](/readme/mobile.png "Mobile imagem.")
