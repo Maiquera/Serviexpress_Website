@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Bloquear arquivos internos (opcional)
+Disallow: /includes/
+Disallow: /src/
+
+# Sitemap
+Sitemap: https://serviexpress.com.br/sitemap.xml
