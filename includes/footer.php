@@ -41,14 +41,19 @@
 
         <div class="row align-items-center">
             <div class="col-md-7 col-lg-8">
-                <p>Copyright © 2026 Todos os direitos reservados por:
+                <p class="mb-1">Copyright © 2026 Todos os direitos reservados por:
                     <a href="index.php" style="text-decoration: none;">
-                        <strong class="text-primary">Serviexpress</strong>
+                    <strong class="text-primary">Serviexpress</strong>
+                    </a>
+                </p>
+                <p class="small text-white-50 mb-0">
+                    Site desenvolvido por
+                    <a href="https://www.maicolmanasses.com.br/" target="_blank" rel="noopener" class="text-white-50">
+                    Maicol Manasses
                     </a>
                 </p>
             </div>
-
-            <div class="col-md-5 col-lg-4">
+            <!-- <div class="col-md-5 col-lg-4">
                 <div class="text-center text-md-end">
                     <ul class="list-unstyled list-inline">
                         <li class="list-inline-item">
@@ -62,7 +67,7 @@
                         </li>
                     </ul>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </footer>

@@ -19,7 +19,7 @@
     <meta property="og:image" content="https://serviexpress.com.br/src/Serviexpress_logo.png">
     <meta property="og:url" content="https://serviexpress.com.br/">
     <meta property="og:type" content="website">
-    <link rel="icon" href="/src/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/src/favicon.png" type="image/x-icon">
     <link rel="preconnect" href="https://cdn.jsdelivr.net">
     <link rel="preconnect" href="https://images.unsplash.com">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -111,7 +111,7 @@
             <img src="src/Serviexpress_logo.png" alt="Logo da Empresa" width="400" class="img-fluid mb-4">
             <h1 class="display-6 fw-bold text-dark">Venda, Instalação e Manutenção de Equipamentos para Piscinas e Saunas em Florianópolis e Região</h1>
             <a href="#servicos" class="btn btn-success btn-lg px-4 rounded-pill mt-3 mx-2">NOSSOS SERVIÇOS</a>
-            <a href="https://wa.me/5548996287489" class="btn btn-outline-success btn-lg px-4 rounded-pill mt-3">NOSSO WHATSAPP</a>
+            <a href="https://wa.me/5548996287489" class="btn btn-outline-light btn-lg px-4 rounded-pill mt-3">NOSSO WHATSAPP</a>
         </div>
         <?php include __DIR__ . '/includes/wave.php'; ?>
     </section>
