@@ -14,16 +14,23 @@
     <meta name="ICBM" content="-27.5954, -48.5480">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://serviexpress.com.br/">
+
+    <!-- Open Graph -->
     <meta property="og:title" content="Serviexpress | Piscinas, Climatização e Refrigeração">
     <meta property="og:description" content="Venda, instalação e manutenção de equipamentos para piscinas, saunas e ar condicionado.">
     <meta property="og:image" content="https://serviexpress.com.br/src/Serviexpress_logo.png">
     <meta property="og:url" content="https://serviexpress.com.br/">
     <meta property="og:type" content="website">
-    <link rel="icon" href="/src/favicon.png" type="image/x-icon">
+
+    <!-- Favicon -->
+    <link rel="icon" href="/src/favicon.png" type="image/png">
+
+    <!-- Preconnect & CDNs -->
     <link rel="preconnect" href="https://cdn.jsdelivr.net">
     <link rel="preconnect" href="https://images.unsplash.com">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
     <style>
         html {
             scroll-behavior: smooth;
@@ -36,14 +43,12 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            background-attachment: scroll;
             position: relative;
             display: flex;
             align-items: center;
             justify-content: center;
             text-align: center;
             color: white;
-            ;
         }
 
         .swiper {
@@ -79,13 +84,14 @@
             background-color: #f8f9fa;
         }
     </style>
+
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Serviexpress",
             "image": "https://serviexpress.com.br/src/Serviexpress_logo.png",
-            "url": "https://serviexpress.com.br",
+            "url": "https://serviexpress.com.br/",
             "telephone": "+55 48 99628-7489",
             "address": {
                 "@type": "PostalAddress",

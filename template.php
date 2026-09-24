@@ -27,7 +27,7 @@ $data = $produtos[$categoria];
     <meta property="og:image" content="https://serviexpress.com.br/src/Serviexpress_logo.png">
     <meta property="og:url" content="<?= $data['seo']['url'] ?>">
     <meta property="og:type" content="website">
-    <link rel="icon" href="/src/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/src/favicon.png" type="image/png">
     <link rel="preconnect" href="https://cdn.jsdelivr.net">
     <link rel="preconnect" href="https://images.unsplash.com">
     <script type="application/ld+json">
@@ -46,7 +46,7 @@ $data = $produtos[$categoria];
                 "priceCurrency": "BRL",
                 "lowPrice": "500",
                 "highPrice": "70000",
-                "offerCount": "<?= count($data['preco']) ?>"
+                "offerCount": "<?= is_array($data['itens'] ?? null) ? count($data['itens']) : 0 ?>"
             }
         }
     </script>
