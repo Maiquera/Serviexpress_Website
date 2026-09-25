@@ -151,7 +151,7 @@
                             <div class="card-body">
                                 <h5>Robô de Limpeza RB7</h5>
                                 <p class="small text-muted">Limpador automático para piscinas.</p>
-                                <a href="robos.php" class="btn btn-outline-primary btn-sm">
+                                <a href="robos-limpeza.php" class="btn btn-outline-primary btn-sm">
                                     Ver modelos
                                 </a>
                             </div>
@@ -163,7 +163,7 @@
                             <div class="card-body">
                                 <h5>Filtro Compacto c/ Carrinho</h5>
                                 <p class="small text-muted">Filtro de piscina compacto com carrinho.</p>
-                                <a href="filtros.php" class="btn btn-outline-primary btn-sm">
+                                <a href="filtros-piscinas.php" class="btn btn-outline-primary btn-sm">
                                     Ver modelos
                                 </a>
                             </div>
@@ -175,7 +175,7 @@
                             <div class="card-body">
                                 <h5>Gerador de Cloro GS-42</h5>
                                 <p class="small text-muted">Gerador de cloro com tecnologia avançada.</p>
-                                <a href="geradores.php" class="btn btn-outline-primary btn-sm">
+                                <a href="geradores-cloro.php" class="btn btn-outline-primary btn-sm">
                                     Ver modelos
                                 </a>
                             </div>
@@ -199,7 +199,7 @@
                             <div class="card-body">
                                 <h5>Bomba D'àgua BMP</h5>
                                 <p class="small text-muted">Bomba d'água com alto desempenho.</p>
-                                <a href="bombas.php" class="btn btn-outline-primary btn-sm">
+                                <a href="bombas-piscinas.php" class="btn btn-outline-primary btn-sm">
                                     Ver modelos
                                 </a>
                             </div>
